@@ -1,0 +1,20 @@
+h1 {
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.button {
+	color: black;
+	margin-bottom: 40px;
+	margin-top: 10px;
+	margin-left: 50px;
+	vertical-align: baseline;
+}
+
+.row {
+	text-align: center;
+}
+
+.lineUp {
+	text-align: center;
+}
